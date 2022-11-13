@@ -1,0 +1,28 @@
+.container {
+  height: calc(100vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login_card {
+  width: 35%;
+  // height: 40%;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.signup_text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
+
+.emailVerifyContainer {
+  div {
+    margin-top: 20px;
+  }
+}
